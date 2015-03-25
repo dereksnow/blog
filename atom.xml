@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[sumbumble]]></title>
+  <subtitle><![CDATA[Design, UX, Front-end Dev and other Tech]]></subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  <link href="http://dereksnow.github.io/blog/"/>
+  <updated>2015-03-25T15:09:37.000Z</updated>
+  <id>http://dereksnow.github.io/blog/</id>
+  
+  <author>
+    <name><![CDATA[Derek Snow]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Vim and the Art of Text Manipulation]]></title>
+    <link href="http://dereksnow.github.io/blog/2015/03/24/Vim-and-the-Art-of-Text-Manipulation/"/>
+    <id>http://dereksnow.github.io/blog/2015/03/24/Vim-and-the-Art-of-Text-Manipulation/</id>
+    <published>2015-03-24T18:53:05.000Z</published>
+    <updated>2015-03-25T15:09:37.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="My_History_with_Vim">My History with Vim</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually vi) was when I was an undergrad in ‘95 taking Fortran. We had to telnet into a mainframe to compile our programs and vi was available as an editor. At the time, I mostly used insert mode, which provides you with the basic behavior you would expect from most text editors. Needless to say, during this first encounter I wasn’t using the true power of vi. My focus was to simply get my Fortran programs compiling and working correctly.</p>
+<p>In 2001 I had my second encounter with vi. I had just started work as an embedded systems engineer and my mentor at the time was a big proponent of vi. I tried for a few days to use vi as my primary editor, but my productivity was taking a severe hit. Being a new, and fairly clueless engineer, I didn’t need anything hindering my productivity, so I decided to ditch vi… at least for awhile.</p>
+<p>In both of my first encounters with Vim, I didn’t feel like I had the luxury to take the upfront productivity hit to reap the productivity gains later. </p>
+<h2 id="Third_time’s_the_charm">Third time’s the charm</h2><p>So last year <em>(yeah, 13 years after my last encounter)</em> I was looking to increase my text editing productivity and decided to commit to learning Emacs or Vim. Initially I started learning Emacs since it integrates well with existing Unix tools and I could basically “live” in Emacs for most things… However, I really dislike the use of key chords for most operations. <em>For those not familiar with key chords, it simply means holding one or more keys down while pressing another( e.g Ctrl+C, Alt+F4).</em> So, I turned to Vim, which takes a modal approach. Vim’s modal approach employees single key and key sequences to perform operations, instead of key chords. This proved to be a much better approach for me and my inflexible fingers.</p>
+<h2 id="So_is_Vim_(or_Emacs)_really_worth_it?">So is Vim (or Emacs) really worth it?</h2><p>Some people may not want to invest the time upfront to learn Vim (or Emacs), but if you spend a lot time editing, it will probably be worth it. </p>
+<p>Check out the videos below to get a quick idea of the things you can do with Vim and Emacs. <em>Note: These aren’t tutorials taking you from step one. They are just videos to let you see a small bit of what is possible.</em></p>
+<ul>
+<li><a href="https://youtu.be/rfl9KQb_HVk?list=PLhMs04g3TXEZQyjLSPfwKHRJ-viNugdW4" target="_blank" rel="external">Learn to love the Vim text editor</a></li>
+<li><a href="https://youtu.be/O0UgY-DmFbU" target="_blank" rel="external">Emacs Rocks! Episode 01: From var to this</a></li>
+</ul>
+<h2 id="Learning_Vim">Learning Vim</h2><p>I was lucky enough to find a great piece of “edutainment” software for learning Vim Last year - <a href="http://vim-adventures.com/" target="_blank" rel="external">Vim Adventures (VA)</a>. VA describes itself as the “Zelda meets text editing” game. Comparisons to Zelda are probably a bit much, but Vim Adventures is a really great way to learn the basics of Vim. The game engages you in a quest that has you repeating more than 60 Vim commands and motions that build up your muscle memory very fast. I felt significantly more productive using Vim after a week of playing VA. </p>
+<h3 id="My_Recommended_Resources_for_Learning_Vim">My Recommended Resources for Learning Vim</h3><ol>
+<li>vimtutor - If you are on OSX or Linux, you can type <em>vimtutor</em> in a terminal to start the built-in Vim tutor. Windows users can install <a href="http://www.vim.org/download.php#pc" target="_blank" rel="external">gVim</a> and run the tutorial as well.</li>
+<li><a href="http://vim-adventures.com" target="_blank" rel="external">Vim Adventures</a></li>
+<li><a href="http://www.moolenaar.net/habits.html" target="_blank" rel="external">Seven habits of effective text editing</a> - Tips from the Vim creator himself</li>
+<li><a href="http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/" target="_blank" rel="external">Learn to speak vim - verbs, nouns, and modifiers!</a></li>
+<li><a href="http://rc3.org/2012/05/12/the-grammar-of-vim/" target="_blank" rel="external">The grammar of vim</a> - Similar to the previous article</li>
+</ol>
+<h2 id="Other_editors">Other editors</h2><p>There are a lot of text editors available besides Vim and Emacs (yeah, Emacs is more of an OS than just a text editor) that allow people to be very productive. The important thing is to learn your editor and become proficient in using it. If you think it’s lacking in features, you may want to explore other options. </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="My_History_with_Vim">My History with Vim</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually vi) ]]>
+    </summary>
+    
+      <category term="Emacs" scheme="http://dereksnow.github.io/blog/tags/Emacs/"/>
+    
+      <category term="Text Editor" scheme="http://dereksnow.github.io/blog/tags/Text-Editor/"/>
+    
+      <category term="Vim" scheme="http://dereksnow.github.io/blog/tags/Vim/"/>
+    
+      <category term="Vim Adventures" scheme="http://dereksnow.github.io/blog/tags/Vim-Adventures/"/>
+    
+      <category term="Tools, Editor" scheme="http://dereksnow.github.io/blog/categories/Tools-Editor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[UX with the Fam - Part 1]]></title>
+    <link href="http://dereksnow.github.io/blog/2015/03/19/UX-with-the-Fam-Part-1/"/>
+    <id>http://dereksnow.github.io/blog/2015/03/19/UX-with-the-Fam-Part-1/</id>
+    <published>2015-03-19T15:28:55.000Z</published>
+    <updated>2015-03-20T00:05:04.000Z</updated>
+    <content type="html"><![CDATA[<p><em>UX with the Fam will be an ongoing series that relates stories about UX (User Experience).</em></p>
+<h2 id="The_Issue">The Issue</h2><p>My dad has had a Nexus 5 since it came out in 2013. He mostly uses it to talk and text, but he also enjoys using Google Now to get information. A few weeks ago he asked me why his phone no longer audibly spelled-out words that he asked it to spell. He demonstrated what was happening - <em>OK Google, spell embarrass</em>.  Google returned search results for <em>spell embarrass</em>, with the first result being merriam-webster’s entry for embarrass. Just as he said, there wasn’t an audible spelling of <em>embarrass</em> as he expected.</p>
+<h2 id="What_was_happening?">What was happening?</h2><p>I first assumed that something had changed with his recent upgrade to Android 5.0. I decided to try out <em>OK Google, spell embarrass</em> on my phone, since it was still at 4.4. My phone returned the same merriam-webster entry without the word <em>embarrass</em> audibly spelled. Hmm… maybe <em>spell</em> wasn’t the right thing to say and I tried <em>OK Google, how do you spell embarrass?</em> - which did result in the word being spelled out. I must have used a similar phrase when I first showed him this feature. It seems we had both forgot the <em>magic</em> phrase…</p>
+<h2 id="User_Expectations">User Expectations</h2><p>My dad expected to hear the word spelled-out, but didn’t use the <em>“correct”</em> phrase. He assumed it didn’t matter which phrase was used as long as the same basic meaning was conveyed. This is a reasonable expectation. I explained that natural language processing(NLP) is not trivial and it’s very impressive what Google and other companies have accomplished with speech recognition and NLP.  With that said, I don’t think this was case of being technically hard, but more likely an oversight, side effect or possibly intentional. After all, Google was returning a dictionary entry for <em>embarrass</em> when <em>spell embarrass</em> was used, not something unrelated. It should also be noted that <em>how do you spell…</em> is not the only phrase that can be used to get an audible spelling of a word, <em>give me the spelling for the word…</em> also results in the word being audibly spelled. </p>
+<h2 id="A_better_UX?">A better UX?</h2><p>Providing consistent and predictable behavior is part of good user centered design. Predictable behavior results in the user being satisfied that the product/service is working reliably. Inconsistent behavior delays the user from their intended goal, which can be frustrating.</p>
+<p>So providing a consistent experience for semantically similar queries (e.g.  <em>spell embarrass, how do you spell embarrass</em>) is ideal. Realizing NLP isn’t perfect, Google and other companies using voice recognition/NLP could allow users to opt-in to a program to help identify semantically similar phrases. As an example, after saying <em>OK Google, spell embarrass</em> and providing the result, it could ask <em>does “spell embarrass” have the same meaning as “how do you spell embarrass”</em>. With enough responses in the affirmative, the phrase could be grouped with other phrases as being semantically equivalent and provide consistent behavior.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><em>UX with the Fam will be an ongoing series that relates stories about UX (User Experience).</em></p>
+<h2 id="The_Issue">The Issue</h2>]]>
+    </summary>
+    
+      <category term="UX" scheme="http://dereksnow.github.io/blog/tags/UX/"/>
+    
+      <category term="android" scheme="http://dereksnow.github.io/blog/tags/android/"/>
+    
+      <category term="Design, UX" scheme="http://dereksnow.github.io/blog/categories/Design-UX/"/>
+    
+  </entry>
+  
+</feed>
