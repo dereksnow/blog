@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Design, UX, Front-end Dev and other Tech]]></subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   <link href="http://dereksnow.github.io/blog/"/>
-  <updated>2015-03-25T19:24:31.000Z</updated>
+  <updated>2015-03-25T19:32:43.000Z</updated>
   <id>http://dereksnow.github.io/blog/</id>
   
   <author>
@@ -19,12 +19,12 @@
     <link href="http://dereksnow.github.io/blog/2015/03/24/Vim-and-the-Art-of-Text-Manipulation/"/>
     <id>http://dereksnow.github.io/blog/2015/03/24/Vim-and-the-Art-of-Text-Manipulation/</id>
     <published>2015-03-24T18:53:05.000Z</published>
-    <updated>2015-03-25T19:24:31.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="My_History_with_Vim">My History with Vim</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually vi) was when I was an undergrad in ‘95 taking Fortran. We had to telnet into a mainframe to compile our programs and vi was available as an editor. At the time, I mostly used insert mode, which provides you with the basic behavior you would expect from most text editors. Needless to say, during this first encounter I wasn’t using the true power of vi. My focus was to simply get my Fortran programs compiling and working correctly.</p>
+    <updated>2015-03-25T19:32:43.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="My_History_with_Vi(m)">My History with Vi(m)</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually vi) was when I was an undergrad in ‘95 taking Fortran. We had to telnet into a mainframe to compile our programs and vi was available as an editor. At the time, I mostly used insert mode, which provides you with the basic behavior you would expect from most text editors. Needless to say, during this first encounter I wasn’t using the true power of vi. My focus was to simply get my Fortran programs compiling and working correctly.</p>
 <p>In 2001 I had my second encounter with vi. I had just started work as an embedded systems engineer and my mentor at the time was a big proponent of vi. I tried for a few days to use vi as my primary editor, but my productivity was taking a severe hit. Being a new, and fairly clueless engineer, I didn’t need anything hindering my productivity, so I decided to ditch vi… at least for awhile.</p>
 <p><em>In my first two encounters with Vim, I didn’t have the luxury to take the upfront productivity hit to reap the later gains.</em></p>
 <h2 id="Third_time’s_the_charm">Third time’s the charm</h2><p>So last year <em>(yeah, 13 years after my last encounter)</em> I was looking to increase my text editing productivity and decided to commit to learning Emacs or Vim. Initially I started learning Emacs since it integrates well with existing Unix tools and I could basically “live” in Emacs for most things… However, I really dislike the use of key chords for most operations. <em>For those not familiar with key chords, it simply means holding one or more keys down while pressing another( e.g Ctrl+C, Alt+F4).</em> So, I turned to my old friend Vim, which takes a modal approach (i.e. switching between different modes: normal, insert, visual, command etc to accomplish tasks). Vim’s modal approach employees single key and key sequences to perform operations, instead of key chords. This proved to be a much better approach for me and my inflexible fingers.</p>
-<p><em>Note: Emacs has packages (e.g evil) that support Vim keybindings. I may move to this type of setup at some point in the future…</em></p>
+<p><em>Note: Emacs has packages (e.g evil) that support vi keybindings. I may move to this type of setup at some point in the future…</em></p>
 <h2 id="So_is_Vim_(or_Emacs)_really_worth_it?">So is Vim (or Emacs) really worth it?</h2><p>Some people may not want to invest the time upfront to learn Vim (or Emacs), but if you spend a lot time editing, you should at least give it a try. </p>
 <p>Check out the videos below to get a quick idea of the things you can do with Vim and Emacs. <em>Note: These aren’t tutorials taking you from step one. They are just videos to let you see a small bit of what is possible.</em></p>
 <ul>
@@ -42,7 +42,7 @@
 <h2 id="Other_editors">Other editors</h2><p>There are a lot of text editors available besides Vim and Emacs (yeah, Emacs is more of an OS than just a text editor) that allow people to be very productive. The important thing is to learn your editor and become proficient in using it. If you think it’s lacking in features, you may want to explore other options.</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h2 id="My_History_with_Vim">My History with Vim</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually vi) ]]>
+    <![CDATA[<h2 id="My_History_with_Vi(m)">My History with Vi(m)</h2><p>It’s hard for me to remember, but I think my first encounter with Vim (actually ]]>
     </summary>
     
       <category term="Emacs" scheme="http://dereksnow.github.io/blog/tags/Emacs/"/>
