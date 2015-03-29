@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[sumbumble]]></title>
-  <subtitle><![CDATA[Design, UX, Front-end Dev and other Tech]]></subtitle>
+  <subtitle><![CDATA[Design, UX, Front-end Dev and other Things]]></subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   <link href="http://dereksnow.github.io/blog/"/>
   <updated>2015-03-27T22:54:57.000Z</updated>
